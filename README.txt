@@ -1,0 +1,1 @@
+Simple Replicator in Ruby. It will make infinite copies (as much as your hard drive space allows) containing an executable script of itself that can also be run as seed of replicator.
