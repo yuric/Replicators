@@ -1,4 +1,4 @@
-# bumm Self Replicator Software or quine
+# Self Replicator Software or quine
 # by Yuri Costa
 
 $replicaFile = File.new('testQuine.rb', 'r+')
